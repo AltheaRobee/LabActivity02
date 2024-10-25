@@ -1,0 +1,30 @@
+body
+{
+  background-color: AliceBlue;
+}
+
+title
+{
+  font-family: sans-serif;
+  font-size: 35px;
+  font-color: MidnightBlue;
+  text-align: center;
+  border-style: outset;
+  border-color: CornflowerBlue;
+}
+
+h1
+{
+  font-family: sans-serif;
+  font size: 100px;
+  font-color: DarkBlue;
+  text-align: center;
+}
+
+p
+{
+  font-family: sans-serif;
+  font size: 90px;
+  font-color: DarkBlue;
+  text-align: left;
+}

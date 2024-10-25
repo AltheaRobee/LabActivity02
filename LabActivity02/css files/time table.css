@@ -1,0 +1,110 @@
+body 
+{
+    font-family: Arial, sans-serif;
+}
+
+timetable 
+{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+timetable th, .timetable td 
+{
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+timetable th 
+{
+    background-color: LavenderBlush;
+}
+
+flag 
+{
+    background-color: LemonChiffon;
+}
+
+homeroom 
+{
+    background-color: DarkSeaGreen;
+}
+
+health 
+{
+    background-color: Orchid;
+}
+
+english 
+{
+    background-color: Plum;
+}
+
+filipino 
+{
+    background-color: SandyBrown;
+}
+
+physics 
+{
+    background-color: LightPink;
+}
+
+biology 
+{
+    background-color: LawnGreen;
+}
+
+comp-sci 
+{
+    background-color: Cyan;
+}
+
+comp-sci-lab 
+{
+    background-color: Cyan;
+}
+
+social-science 
+{
+    background-color: Aqua;
+}
+
+values-ed 
+{
+    background-color: Aquamarine;
+}
+
+statistics 
+{
+    background-color: DarkGoldenRod;
+}
+
+math 
+{
+    background-color: DarkSalmon;
+}
+
+pe 
+{
+    background-color: Lime;
+}
+
+music 
+{
+    background-color: MediumVioletRed;
+}
+
+alternative 
+{
+    background-color: MediaTurquoise;
+}
+
+recess, lunch 
+{
+    background-color: Aqua;
+    font-weight: bold;
+}
